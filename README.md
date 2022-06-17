@@ -54,7 +54,7 @@ f0가 초기해이고, f1은 랜덤하게 정해진 이웃해를 의미한다.
 
 ![data](https://github.com/akizakic/akizakic.github.io/blob/main/KakaoTalk_20220617_161307889.png?raw=true)
 
-이를 그래프로 나타내보면 아래와 같이 2차 함수 모양이 나타난다.
+위의 데이터에서 강수량 데이터를 그래프로 나타내보면 아래와 같이 2차 함수 모양이 나타난다.
 ![datagraph](https://github.com/akizakic/akizakic.github.io/blob/main/KakaoTalk_20220617_160310124.png?raw=true)
 
         
